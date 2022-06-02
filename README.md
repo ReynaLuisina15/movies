@@ -1,5 +1,5 @@
 # MOVIES
 ## Integrantes
 - Reyna, Luisina
-- Diaz, Jose
+- Diaz, Jose, 20, San Miguel De Tucuman 
 - Aguirre, Uriel
